@@ -82,17 +82,5 @@ This project was developed for a Kaggle competition, using a prediction model to
 
 The best model was the XGBClassifier in 'gpt_model.py', ideal for binary classification problems. Considering this was my first time studying and training a model, it was a good learning experience. I plan to improve the model's accuracy in the future, studying more and updating my skills.
 
----
 
-
-
-## Repository Files
-
-- `data/`: Folder containing the data files.
-- `notebooks/`: Jupyter Notebooks with analysis and models.
-- `scripts/`: Python scripts used in the project.
-- `models/`: Trained models.
-- `clients.py`: Client analysis.
-- `my_model.py`: Initial model using XGBRegressor and LogisticRegression.
-- `gpt_model.py`: Improved model with the help of ChatGPT.
 
